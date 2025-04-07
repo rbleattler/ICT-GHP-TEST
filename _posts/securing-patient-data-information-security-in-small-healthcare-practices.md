@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Securing Patient Data: Information Security in Small Healthcare Practices
 
  ([Why Cybercriminals Set Their Sights on Medical Practices](https://www.rectanglehealth.com/resources/blogs/cybercriminals-set-sights-on-small-medical-practices/))
